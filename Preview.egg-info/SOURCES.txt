@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+Preview.egg-info/PKG-INFO
+Preview.egg-info/SOURCES.txt
+Preview.egg-info/dependency_links.txt
+Preview.egg-info/entry_points.txt
+Preview.egg-info/requires.txt
+Preview.egg-info/top_level.txt
+preview/__init__.py
+preview/__main__.py
+preview/app.py
+preview/image_loader.py
+preview/main_window.py
+tests/test_image_loader.py
+tests/test_startup.py
