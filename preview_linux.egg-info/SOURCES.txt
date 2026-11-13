@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+preview/__init__.py
+preview/__main__.py
+preview/app.py
+preview/main_window.py
+preview_linux.egg-info/PKG-INFO
+preview_linux.egg-info/SOURCES.txt
+preview_linux.egg-info/dependency_links.txt
+preview_linux.egg-info/entry_points.txt
+preview_linux.egg-info/requires.txt
+preview_linux.egg-info/top_level.txt
+tests/test_startup.py
